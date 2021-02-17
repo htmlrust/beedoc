@@ -40,12 +40,6 @@
         	<td><a target="_blank" href="http://www.sudochina.com">http://sudochina.com</a></td>
         </tr>
 
-        <tr>
-        	<td>社区论坛</td>
-        	<td>非常时刻 - 社交分享社区</td>
-        	<td><a target="_blank" href="http://www.veryhour.com">http://veryhour.com</a></td>
-        </tr>
-
            <tr>
         	<td>股票应用</td>
         	<td>数据查询</td>
